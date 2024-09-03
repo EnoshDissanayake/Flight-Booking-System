@@ -14,7 +14,7 @@
     <li><a href="#ide">IDEs Used</a></li>
     <li><a href="#comp">Compatible With</a></li>
     <li><a href="#test">Testing</a></li>
-    <li><a href="#cont">Contributors</a></li>
+   
  </ol>
 
 <br/>
@@ -22,8 +22,7 @@
 <a name="about"></a>
 ## :round_pushpin: About The Project
 &ensp; *Phoenix Airline PVT is an airline with a small online flight booking system. Processes such as user management, flight management, and ticket management, are done manually. This project aims developing a dynamic web application to mautomate the management tasks which are handled manually.*<br/>
-&ensp;&ensp;&ensp;:point_right: Link to the Video: <a href="https://youtu.be/vEyLrqHYgPk">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a><br/>
-&ensp;&ensp;&ensp;:point_right: Link to the Repository: <a href="https://github.com/MKLakshitha/Flight_Booking_System">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<a/>
+&ensp;&ensp;&ensp;(https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<a/>
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
 
 
@@ -102,12 +101,5 @@
 
 <br/>
 
-<a name="cont"></a>
-## :man_office_worker: :woman_office_worker: Contributors
-* [Kavindu Lakshitha](https://github.com/MKLakshitha)
-* [Madawa De Silva](https://github.com/TerribleCodes)
-* [Akash Gamage](https://github.com/akashgamage)
-* [Sachini Anjana](https://github.com/NSachini)
-* [Chamithu Ruberu](https://github.com/tcdruberu)
-* [Ridmi Bandara](https://github.com/ridmikb)
+
 <p align="right"><a href="#top">[Back to Top:arrow_up:]</a></p>
